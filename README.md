@@ -1,3 +1,5 @@
+github client : https://github.com/solena8/set_solver_client
+
 # Start server command
 
 python -m uvicorn api:app --reload
