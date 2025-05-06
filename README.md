@@ -1,4 +1,5 @@
 github client : https://github.com/solena8/set_solver_client
+le solveur en ligne :https://set-game-solver.web.app/
 
 # Start server command
 
